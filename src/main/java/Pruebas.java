@@ -7,7 +7,7 @@
 /**
  *
  * @author Rafael
- * @version 1.0
+ * @version 1.0 -> RC
  */
 import java.io.Console;
 import java.io.PrintWriter;
